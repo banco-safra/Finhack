@@ -1,4 +1,4 @@
-# Desafio-Conectado
+# FinHack
 
 ## Aspectos técnicos
 
