@@ -89,4 +89,4 @@ O suporte telefônico funciona 24h e pode ser usado para acionamentos ao time de
 
 Entende-se por indisponibilidades quando, porventura:
 - o endpoint de health check (GET [host]/health) não responder um HTTP Status Code 200 (Ok) utilizando um access token válido.
-- o endpoint de geração de token (https://idcs-902a944ff6854c5fbe94750e48d66be5.identity.oraclecloud.com/oauth2/v1/token) estiver retornando erros utilizando as credenciais corretas e payload conforme disponibilizado na Collection do Postman.
+- o endpoint de geração de token (https://idcs-902a944ff6854c5fbe94750e48d66be5.identity.oraclecloud.com/oauth2/v1/token) estiver retornando erros utilizando as credenciais corretas e já testadas anteriormente e payload conforme disponibilizado na Collection do Postman.
