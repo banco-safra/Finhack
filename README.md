@@ -1,4 +1,4 @@
-# FinHack
+# Finhack
 
 ## Aspectos técnicos
 
