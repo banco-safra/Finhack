@@ -1,3 +1,3 @@
 Documentação técnica.
 
-Para instruções consulte [Desafio-Conectado](https://github.com/banco-safra/Desafio-Conectado).
+Para instruções consulte o [Readme](https://github.com/banco-safra/Finhack).
