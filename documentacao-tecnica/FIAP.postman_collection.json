@@ -94,7 +94,7 @@
 					"enabled": true
 				}
 			],
-			"url": "https://af3tqle6wgdocsdirzlfrq7w5m.apigateway.sa-saopaulo-1.oci.customer-oci.com/fiap-sandbox/open-banking/v1/accounts/00711234522/balances\n",
+			"url": "https://af3tqle6wgdocsdirzlfrq7w5m.apigateway.sa-saopaulo-1.oci.customer-oci.com/fiap-sandbox/open-banking/v1/accounts/00711234522/balances",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -151,7 +151,7 @@
 					"enabled": true
 				}
 			],
-			"url": "https://af3tqle6wgdocsdirzlfrq7w5m.apigateway.sa-saopaulo-1.oci.customer-oci.com/fiap-sandbox/open-banking/v1/accounts/00711234511/balances\n",
+			"url": "https://af3tqle6wgdocsdirzlfrq7w5m.apigateway.sa-saopaulo-1.oci.customer-oci.com/fiap-sandbox/open-banking/v1/accounts/00711234511/balances",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
@@ -243,7 +243,7 @@
 					"enabled": true
 				}
 			],
-			"url": "https://af3tqle6wgdocsdirzlfrq7w5m.apigateway.sa-saopaulo-1.oci.customer-oci.com/fiap-sandbox/open-banking/v1/accounts/00711234533/balances\n",
+			"url": "https://af3tqle6wgdocsdirzlfrq7w5m.apigateway.sa-saopaulo-1.oci.customer-oci.com/fiap-sandbox/open-banking/v1/accounts/00711234533/balances",
 			"queryParams": [],
 			"preRequestScript": null,
 			"pathVariables": {},
