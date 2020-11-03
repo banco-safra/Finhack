@@ -26,7 +26,7 @@ São disponibilizadas funcionalidades através dos seguintes endpoints:
 `GET [host]/open-banking/v1/accounts/{accountId}/transactions`
 
 ##### Transfere valores entre contas
-`GET [host]/accounts/v1/accounts/{accountId}/transfers`
+`POST [host]/accounts/v1/accounts/{accountId}/transfers`
 
 ##### Cadastra uma intenção de abertura de conta (Opt In)
 `POST [host]/accounts/v1/optin`
