@@ -88,5 +88,5 @@ Quando se tratar de Issue técnico relacionado às **APIs** e que não podem ser
 O suporte telefônico funciona 24h e pode ser usado para acionamentos ao time de TI para resolver **indisponibilidades da API** que não possam ser resolvidas via Issues no GitHub por estar fora do horário de atendimento da equipe técnica (segunda a sexta entre 9 e 18 horas).
 
 Entende-se por indisponibilidades quando, porventura:
-- o endpoint de health check (GET [host]/health) não responder um HTTP Status Code 200 (Ok) utilizando um access token válido.
+- o endpoint de health check (GET [host]/health) não responder um HTTP Status Code 200 (Ok).
 - o endpoint de geração de token (https://idcs-902a944ff6854c5fbe94750e48d66be5.identity.oraclecloud.com/oauth2/v1/token) estiver retornando erros utilizando as credenciais corretas e já testadas anteriormente e payload conforme disponibilizado na Collection do Postman.
